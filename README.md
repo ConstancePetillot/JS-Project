@@ -4,7 +4,7 @@ Un projet pour s'entrainer au JS :rocket:
 ## Sujet :
 La Van-life :truck:
 
-## Usage :
+## Usage : :white_check_mark:
 
  1. clone repo
  2. cd into the repo
