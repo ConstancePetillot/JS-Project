@@ -1,5 +1,8 @@
 # JS-Project
-A project to train JS :rocket:
+Un projet pour s'entrainer au JS :rocket:
+
+## Sujet :
+La Van-life :truck:
 
 ## usage :
 
