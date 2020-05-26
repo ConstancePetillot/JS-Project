@@ -41,8 +41,24 @@ document.addEventListener("DOMContentLoaded", function () {
 							</ul>
 						</div>
 						<div class="parallax">
+            </div>
+            <div>
+							Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+							<ul>
+								<li>Lorem ipsum</li>
+								<li>dolor sit</li>
+								<li>amet consectetur</li>
+							</ul>
 						</div>
 						<div>
+							Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+							<ul>
+								<li>Lorem ipsum</li>
+								<li>dolor sit</li>
+								<li>amet consectetur</li>
+							</ul>
+            </div>
+            <div>
 							Lorem ipsum, dolor sit amet consectetur adipisicing elit.
 							<ul>
 								<li>Lorem ipsum</li>
